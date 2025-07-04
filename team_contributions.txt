@@ -1,0 +1,15 @@
+# Team Contributions
+
+1. Debabrata Bhowmik (debabrata_24a12res213@iitp.ac.in)
+- Loaded and preprocessed dataset
+- Implemented genre filter logic
+
+2. Arka Bhattacharya (arka_24a12res133@iitp.ac.in)
+- Developed recommendation logic with TF-IDF & cosine similarity
+- Wrote CLI demo and created documentation/report
+- Led team coordination and final integration
+
+3. Debajyoti Bhunia (debajyoti_24a12res189@iitp.ac.in)
+- Built the Streamlit frontend UI
+- Integrated dropdown genre filtering in the app
+- Created genre frequency bar chart
