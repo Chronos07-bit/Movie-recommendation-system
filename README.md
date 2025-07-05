@@ -54,7 +54,7 @@ Make sure `movies.csv` is in the same folder as `app.py`.
 |------------------------|----------------------------------------|---------------|
 | **Arka Bhattacharya** | arka_24a12res133@iitp.ac.in           | TF-IDF logic, CLI version, full report, project coordination |
 | **Debabrata Bhowmik** | debabrata_24a12res213@iitp.ac.in      | Data preprocessing, genre filter |
-| **Debajyoti Bhunia**  | debajyoti_24a12res189@iitp.ac.in      | Streamlit UI, dropdown integration, visualization |
+| **Debajyoti Bhunia**  | debajyoti_24a12res214@iitp.ac.in      | Streamlit UI, dropdown integration, visualization |
 
 📄 *See full breakdown in* `team_contributions.txt`
 
